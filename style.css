@@ -136,7 +136,7 @@ h1{
       background-color:wheat;
     }
     .container{
-        background-image:url(head.jpg);
+        background-image:url('head.jpg');
         background-repeat: no-repeat;
         background-position:center;
 
